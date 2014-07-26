@@ -6,12 +6,12 @@ The names of six activities : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SIT
 Type of variable: char.
 
 
-2.No.Subject:
+2. No.Subject:
 The number of volunteers(subject) who performed the six activities. Its range is from 1 to 30. 
 Type of variable: integer.
 
 
-3.tBodyAcc-mean-X:	
+3. tBodyAcc-mean-X:	
 The average of Mean value of measurements of body acceleration in the X directions in time.
 Units: standard gravity units 'g'.
 Type of variable: real number.
