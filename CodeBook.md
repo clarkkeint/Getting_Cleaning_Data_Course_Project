@@ -17,126 +17,110 @@ Units: standard gravity units 'g'.
 Type of variable: real number.
 
  
-4.tBodyAcc-mean-Y:	
-The average of Mean value of measurements of body acceleration in the Y directions in time.
-Units: standard gravity units 'g'.
+4. tBodyAcc-mean-Y:	   
+The average of Mean value of measurements of body acceleration in the Y directions in time.   
+Units: standard gravity units 'g'.      
+Type of variable: real number.          
+
+
+5. tBodyAcc-mean-Z:      	
+The average of Mean value of measurements of body acceleration in the Z directions in time.      
+Units: standard gravity units 'g'.      
+Type of variable: real number.      
+
+
+6. tBodyAcc-std-X:      
+The average of Standard deviation of measurements of body acceleration in the X directions in time.      
+Units: standard gravity units 'g'.      
+Type of variable: real number.      
+
+
+7. tBodyAcc-std-Y:      
+The average of Standard deviation of measurements of body acceleration in the Y directions in time.      
+Units: standard gravity units 'g'.      
+Type of variable: real number.      
+
+
+8. tBodyAcc-std-Z:
+The average of Standard deviation of measurements of body acceleration in the Z directions in time.      
+Units: standard gravity units 'g'.      
+Type of variable: real number.      
+
+
+9. tGravityAcc-mean-X:      
+The average of Mean value of measurements of gravity acceleration in the X directions in time.      
+Units: standard gravity units 'g'.      
+Type of variable: real number.      
+
+
+10. tGravityAcc-mean-Y:      
+The average of Mean value of measurements of gravity acceleration in the Y directions in time.      
+Units: standard gravity units 'g'.      
+Type of variable: real number.      
+
+
+11. tGravityAcc-mean-Z:      
+The average of Mean value of measurements of gravity acceleration in the z directions in time.      
+Units: standard gravity units 'g'.      
+Type of variable: real number.      
+
+
+12. tGravityAcc-std-X:      
+The average of Standard deviation of measurements of gravity acceleration in the X directions in time.      
+Units: standard gravity units 'g'.      
 Type of variable: real number.
 
 
-5.tBodyAcc-mean-Z:
-	
-The average of Mean value of measurements of body acceleration in the Z directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
+13. tGravityAcc-std-Y:      
+The average of Standard deviation of measurements of gravity acceleration in the Y directions in time.      
+Units: standard gravity units 'g'.      
+Type of variable: real number.      
 
 
-6.tBodyAcc-std-X:
-
-The average of Standard deviation of measurements of body acceleration in the X directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
-
-
-7.tBodyAcc-std-Y:
-
-The average of Standard deviation of measurements of body acceleration in the Y directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
+14. tGravityAcc-std-Z:      
+The average of Standard deviation of measurements of gravity acceleration in the Z directions in time.      
+Units: standard gravity units 'g'.      
+Type of variable: real number.      
 
 
-8.tBodyAcc-std-Z:
-
-The average of Standard deviation of measurements of body acceleration in the Z directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
-
-
-9.tGravityAcc-mean-X:
-
-The average of Mean value of measurements of gravity acceleration in the X directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
+15. tBodyAccJerk-mean-X:      
+The average of Mean value of measurements of Jerk signals of body acceleration(derived in time) in the X directions in time.      
+Units: 'g/second' where 'g' is standard gravity units.      
+Type of variable: real number.      
 
 
-10.tGravityAcc-mean-Y:
-
-The average of Mean value of measurements of gravity acceleration in the Y directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
-
-
-11.tGravityAcc-mean-Z:
-
-The average of Mean value of measurements of gravity acceleration in the z directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
+16. tBodyAccJerk-mean-Y:      
+The average of Mean value of measurements of Jerk signals of body acceleration(derived in time) in the Y directions in time.      
+Units: 'g/second' where 'g' is standard gravity units      
+Type of variable: real number.      
 
 
-12.tGravityAcc-std-X:
+17. tBodyAccJerk-mean-Z:
+The average of Mean value of measurements of Jerk signals of body acceleration(derived in time) in the Z directions in time.      
+Units: 'g/second' where 'g' is standard gravity units.      
+Type of variable: real number.      
 
-The average of Standard deviation of measurements of gravity acceleration in the X directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
-
-
-13.tGravityAcc-std-Y:
-
-The average of Standard deviation of measurements of gravity acceleration in the Y directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
-
-
-14.tGravityAcc-std-Z:
-
-The average of Standard deviation of measurements of gravity acceleration in the Z directions in time.
-Units: standard gravity units 'g'.
-Type of variable: real number.
-
-
-15.tBodyAccJerk-mean-X:
-
-The average of Mean value of measurements of Jerk signals of body acceleration(derived in time) in the X directions in time.
-Units: 'g/second' where 'g' is standard gravity units
-Type of variable: real number.
-
-
-16.tBodyAccJerk-mean-Y:
-
-The average of Mean value of measurements of Jerk signals of body acceleration(derived in time) in the Y directions in time.
-Units: 'g/second' where 'g' is standard gravity units
-Type of variable: real number.
-
-
-17.tBodyAccJerk-mean-Z:
-
-The average of Mean value of measurements of Jerk signals of body acceleration(derived in time) in the Z directions in time.
-Units: 'g/second' where 'g' is standard gravity units
-Type of variable: real number.
-
-18.tBodyAccJerk-std-X:
-
+18. tBodyAccJerk-std-X:      
 The average of Standard deviation of measurements of Jerk signals of body acceleration(derived in time) in the X directions in time.
-Units: 'g/second' where 'g' is standard gravity units
-Type of variable: real number.
+Units: 'g/second' where 'g' is standard gravity units.      
+Type of variable: real number.      
 
 
-19.tBodyAccJerk-std-Y:
-The average of Standard deviation of measurements of Jerk signals of body acceleration(derived in time) in the Y directions in time.
-Units: 'g/second' where 'g' is standard gravity units
-Type of variable: real number.
+19. tBodyAccJerk-std-Y:      
+The average of Standard deviation of measurements of Jerk signals of body acceleration(derived in time) in the Y directions in time.      
+Units: 'g/second' where 'g' is standard gravity units.      
+Type of variable: real number.      
 
-20.tBodyAccJerk-std-Z:
+20. tBodyAccJerk-std-Z:      
+The average of Standard deviation of measurements of Jerk signals of body acceleration(derived in time) in the Z directions in time.      
+Units: 'g/second' where 'g' is standard gravity units      
+Type of variable: real number.      
 
-The average of Standard deviation of measurements of Jerk signals of body acceleration(derived in time) in the Z directions in time.
-Units: 'g/second' where 'g' is standard gravity units
-Type of variable: real number.
 
-
-21.tBodyGyro-mean-X:
-
-The average of Mean value of measurements of body angular velocity in the X directions in time.
-Units: 'radians/second'.
-Type of variable: real number.
+21. tBodyGyro-mean-X:      
+The average of Mean value of measurements of body angular velocity in the X directions in time.      
+Units: 'radians/second'.      
+Type of variable: real number.      
 
 
 22.tBodyGyro-mean-Y:
