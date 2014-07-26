@@ -11,9 +11,9 @@ The number of volunteers(subject) who performed the six activities. Its range is
 Type of variable: integer.
 
 
-3. tBodyAcc-mean-X:
-The average of Mean value of measurements of body acceleration in the X directions in time.
-Units: standard gravity units 'g'.
+3. tBodyAcc-mean-X: 
+The average of Mean value of measurements of body acceleration in the X directions in time. 
+Units: standard gravity units 'g'. 
 Type of variable: real number.
 
  
