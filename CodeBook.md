@@ -1,27 +1,23 @@
 There are 68 variables in the file "Tidy data.csv". The explanation of every
 variables are shown as follow:
 
-1. Activity:
-	
+1. Activity:	
 The names of six activities : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 Type of variable: char.
 
 
 2.No.Subject:
-
 The number of volunteers(subject) who performed the six activities. Its range is from 1 to 30. 
 Type of variable: integer.
 
 
-3.tBodyAcc-mean-X:
-	
+3.tBodyAcc-mean-X:	
 The average of Mean value of measurements of body acceleration in the X directions in time.
 Units: standard gravity units 'g'.
 Type of variable: real number.
 
  
-4.tBodyAcc-mean-Y:
-	
+4.tBodyAcc-mean-Y:	
 The average of Mean value of measurements of body acceleration in the Y directions in time.
 Units: standard gravity units 'g'.
 Type of variable: real number.
