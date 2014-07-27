@@ -2,7 +2,7 @@
    download the data from : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip      
    and then unzip the data in work directory.
    
-2. run R script called "run_analysis.R"
+2. Source and run R script called "run_analysis.R"
 
 3. Output a tidy data set called "Tidy Data.txt"
 

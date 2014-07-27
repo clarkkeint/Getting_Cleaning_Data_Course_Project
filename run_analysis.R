@@ -68,6 +68,6 @@ data_tidy$Activity <- as.factor(data_tidy$Activity)
 levels(data_tidy$Activity) <- list(WALKING="1", WALKING_UPSTAIRS="2", WALKING_DOWNSTAIRS="3", SITTING="4",STANDING
 = "5",LAYING = "6")
 
-## output tidy data into a file named "Tidy Data.csv"
-write.csv(data_tidy, file = "Tidy Data.txt",row.names=FALSE)
+## output tidy data into a file named "Tidy Data.txt"     
+write.table(data_tidy, file = "Tidy Data.txt",row.names=FALSE,, sep=" ")     
 }
